@@ -9,7 +9,5 @@
   .profile__info {
     align-items: center;
     gap: 14px;
-    /* width:calc(100% - 19px * 2); */
-    /* max-width: 282px; */
   }
 }
